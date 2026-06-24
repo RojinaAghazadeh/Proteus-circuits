@@ -1,0 +1,4 @@
+The 74HC181 is a 4-bit Arithmetic Logic Unit (ALU) that can perform different arithmetic and logic operations on two binary inputs. It is commonly used to demonstrate how a processor handles calculations and logical decisions.
+In this Proteus simulation, the 74HC181 is used to perform operations such as addition, subtraction, AND, OR, and XOR. The operation is selected using the mode input (M) and the function select inputs (S0-S3). By changing these control signals, different functions can be tested and observed through the output.
+
+This project helps illustrate the basic working principles of an ALU and shows how a single integrated circuit can perform many different operations in digital systems.
